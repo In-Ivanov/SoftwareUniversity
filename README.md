@@ -1,2 +1,2 @@
-# SoftwareUniversity
+# Software University
 Cogito ergo sum

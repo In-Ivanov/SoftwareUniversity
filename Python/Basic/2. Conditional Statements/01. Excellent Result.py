@@ -1,6 +1,4 @@
-# Square pattern program
-size = 5
+num = float(input())
 
-for i in range(0, size):
-    # printing * for 'size' times and a new line
-    print("*" * size)
+if num >= 5.50:
+    print("Excellent!")

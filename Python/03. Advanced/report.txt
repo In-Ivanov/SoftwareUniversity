@@ -1,0 +1,29 @@
+.py
+- - - 01.  Even Lines 02.py
+- - - 01. Even Lines.py
+- - - 01. Numbers Dictionary.py
+- - - 01. Reverse Strings.py
+- - - 02. Email Validator.py
+- - - 02. Line Numbers.py
+- - - 02. Matching Parentheses.py
+- - - 03. File Manipulator.py
+- - - 03. Supermarket.py
+- - - 04. Directory Traversal.py
+- - - 04. Water Dispenser.py
+- - - 05. Hot Potato.py
+- - - 06. Reverse Numbers.py
+- - - 07. Stacked Queries.py
+- - - 08. Fast Food.py
+- - - 09. Fashion Boutique.py
+- - - 10. Truck Tour.py
+- - - 11. Balanced Parentheses.py
+- - - 12. Robotics.py
+- - - 13. Crossroads.py
+- - - 14. Key Revolver.py
+- - - 15. Cups and Bottles.py
+.rar
+- - - Homework_Error_Handling - InIvanov.rar
+.txt
+- - - output.txt
+- - - report.txt
+- - - text.txt
